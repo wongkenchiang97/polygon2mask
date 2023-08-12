@@ -1,0 +1,5 @@
+<launch>
+
+    <node pkg="polygon2mask" type="polygon2mask_node" name="polygon2mask_node" output="screen"/>
+
+</launch>
