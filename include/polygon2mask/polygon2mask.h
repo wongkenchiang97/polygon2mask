@@ -5,7 +5,7 @@
 #include <memory>
 #include <mongocxx/v_noabi/mongocxx/client.hpp>
 #include <mongocxx/v_noabi/mongocxx/instance.hpp>
-#include <polygon2mask/image_label.h>
+#include <polygon2mask/image_annotation.h>
 #include <ros/ros.h>
 
 namespace image_base {

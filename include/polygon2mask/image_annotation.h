@@ -1,5 +1,5 @@
-#ifndef IMAGE_LABAL_H
-#define IMAGE_LABAL_H
+#ifndef IMAGE_ANNOTATION_H
+#define IMAGE_ANNOTATION_H
 
 #include <Eigen/Eigen>
 #include <bsoncxx/v_noabi/bsoncxx/document/element.hpp>
